@@ -54,5 +54,3 @@ class Blockchain{
 
 module.exports.Block = Block;
 module.exports.Blockchain = Blockchain;
-console.log(typeof SHA256('asdgsadfdsaf'));
-console.log(SHA256('asdgsadfdsaf').toString());
